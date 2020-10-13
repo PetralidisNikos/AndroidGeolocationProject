@@ -1,2 +1,2 @@
-# AndroidExam1
+# University Android Geolocation Project
  University Project Using Android Language
